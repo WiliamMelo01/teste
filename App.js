@@ -8,6 +8,7 @@ export default function App() {
       <Text>Adicionando um novo Texto</Text>
       <Text>Adicionando um novo Cabecalho</Text>
       <Button title="Enviar"></Button>
+      <Button title="Botao 2"></Button>
       <StatusBar style="auto" />
     </View>
   );
